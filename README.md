@@ -1,12 +1,36 @@
-# TapMongol Platform
+# TapMongol
 
-TapMongol is a smart NFC platform for:
+One Tap. Unlimited Connections.
 
-- Business Cards
-- Google Reviews
-- Payment Links
-- Social Media
+TapMongol is a modern NFC platform for businesses.
+
+## Products
+
+- Digital Business Cards
+- Google Review Stands
+- Payment Displays
+- Social Profiles
 - Restaurant Menus
-- Digital Profiles
+- Custom NFC Solutions
 
-Powered by GitHub Pages + Cloudflare.
+---
+
+## Website
+
+https://tapmongol.com
+
+---
+
+## Status
+
+Currently under active development.
+
+---
+
+Built with
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+- Cloudflare
